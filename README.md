@@ -1,2 +1,2 @@
 # Sterlings-Stuff
-A test repo 
+A test repo to familiarize myself with GitHub and its plethora of version control and collaboration features. If you're still seeing this repo, it means that I'm either still a sophomore who doesn't know when to delete junk files, or this ended up holding something of value. Either way, it's probably gonna end up being a grab bag of nonsense so enjoy? (I need to update this asap or at least make the repo priv)
